@@ -44,6 +44,6 @@ next-env.d.ts
 import*.py
 
 *creds.json
-# public/json/*
+public/json/*
 
 package-lock.json
