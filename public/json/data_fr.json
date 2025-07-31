@@ -1,0 +1,42 @@
+[
+    {
+        "name": "stakeholder_1",
+        "label": "Partie prenante n°1",
+        "summary": "Ceci est le résumé de la Partie prenante n°1.",
+        "strategy_names": [
+            "strategy_1"
+        ],
+        "type": "stakeholder"
+    },
+    {
+        "name": "stakeholder_2",
+        "label": "Partie prenante n°2",
+        "summary": "Ceci est le résumé de la Partie prenante n°2.",
+        "strategy_names": [
+            "strategy_1",
+            "strategy_2"
+        ],
+        "type": "stakeholder"
+    },
+    {
+        "name": "strategy_1",
+        "strategy_type": "dissemination",
+        "label": "Stratégie n°1",
+        "summary": "Ceci est le résumé de la Stratégie n°1, il s'agit d'une stratégie de diffusion.",
+        "example_names": [
+            "example_1"
+        ],
+        "type": "strategy"
+    },
+    {
+        "name": "strategy_2",
+        "strategy_type": "engagement",
+        "label": "Stratégie n°2",
+        "summary": "Ceci est le résumé de la Stratégie n°2, il s'agit d'une stratégie d'engagement.",
+        "example_names": [
+            "example_1",
+            "example_2"
+        ],
+        "type": "strategy"
+    }
+]

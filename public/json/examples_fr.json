@@ -1,0 +1,24 @@
+[
+    {
+        "name": "example_1",
+        "label": "Type d'exemple n°1",
+        "summary": "Ceci est un résumé du type d'exemple n°1.",
+        "exampleTitle": "Voici le titre d’un exemple réel de ce type d’exemple.",
+        "exampleLink": "https://example.com/",
+        "exampleText": "Voici un texte décrivant un exemple réel de ce type d’exemple.",
+        "keyStrengths": "Voici les points forts de cet exemple sous forme de puces.|Ils utilisent le symbole barre verticale pour indiquer où créer une nouvelle puce.",
+        "keyConsiderations": "Voici les principales considérations de cet exemple sous forme de puces.|Ils utilisent le symbole barre verticale pour indiquer où créer une nouvelle puce.",
+        "type": "example"
+    },
+    {
+        "name": "example_2",
+        "label": "Type d'exemple n°2",
+        "summary": "Ceci est un résumé du type d'exemple n°2.",
+        "exampleTitle": "Voici le titre d’un exemple réel de ce type d’exemple.",
+        "exampleLink": "https://example.com/",
+        "exampleText": "Voici un texte décrivant un exemple réel de ce type d’exemple.",
+        "keyStrengths": "Voici les points forts de cet exemple sous forme de puces.|Ils utilisent le symbole barre verticale pour indiquer où créer une nouvelle puce.",
+        "keyConsiderations": "Voici les principales considérations de cet exemple sous forme de puces.|Ils utilisent le symbole barre verticale pour indiquer où créer une nouvelle puce.",
+        "type": "example"
+    }
+]

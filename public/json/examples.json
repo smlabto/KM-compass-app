@@ -1,0 +1,24 @@
+[
+    {
+        "name": "example_1",
+        "label": "Example Type #1",
+        "summary": "This is a summary of Example Type #1",
+        "exampleTitle": "This is the title of a real world Example of this Example Type.",
+        "exampleLink": "https://example.com/",
+        "exampleText": "This is text describing the real world Example of this Example Type.",
+        "keyStrengths": "These are key strengths of this example in bullet point form.|They use the vertical bar symbol to determine where to create a new bullet point.",
+        "keyConsiderations": "These are key considerations of this example in bullet point form.|They use the vertical bar symbol to determine where to create a new bullet point.",
+        "type": "example"
+    },
+    {
+        "name": "example_2",
+        "label": "Example Type #2",
+        "summary": "This is a summary of Example Type #2",
+        "exampleTitle": "This is the title of a real world Example of this Example Type.",
+        "exampleLink": "https://example.com/",
+        "exampleText": "This is text describing the real world Example of this Example Type.",
+        "keyStrengths": "These are key strengths of this example in bullet point form.|They use the vertical bar symbol to determine where to create a new bullet point.",
+        "keyConsiderations": "These are key considerations of this example in bullet point form.|They use the vertical bar symbol to determine where to create a new bullet point.",
+        "type": "example"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "stakeholder_1",
+        "label": "Stakeholder #1",
+        "summary": "This is the summary for Stakeholder #1",
+        "strategy_names": [
+            "strategy_1"
+        ],
+        "type": "stakeholder"
+    },
+    {
+        "name": "stakeholder_2",
+        "label": "Stakeholder #2",
+        "summary": "This is the summary for Stakeholder #2",
+        "strategy_names": [
+            "strategy_1",
+            "strategy_2"
+        ],
+        "type": "stakeholder"
+    },
+    {
+        "name": "strategy_1",
+        "strategy_type": "dissemination",
+        "label": "Strategy #1",
+        "summary": "This is the summary for Strategy #1, it is a Dissemination strategy.",
+        "example_names": [
+          "example_1"
+        ],
+        "type": "strategy"
+    },
+    {
+        "name": "strategy_2",
+        "strategy_type": "engagement",
+        "label": "Strategy #2",
+        "summary": "This is the summary for Strategy #2, it is an Engagement strategy.",
+        "example_names": [
+            "example_1",
+            "example_2"
+        ],
+        "type": "strategy"
+    }
+]
