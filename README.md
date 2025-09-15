@@ -10,11 +10,14 @@
 
 This app is designed to help researchers like you turn ideas into impact.
 Whether you’re just getting started or looking to improve your Knowledge Mobilization (KM) efforts,
-KM Compass will guide you through the process every step of the way.
+KM Compass will guide you through the process every step of the way. The app is developed by the  <a href="https://socialmedialab.ca/">Social Media Lab</a> at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a> with funding from the <a href="https://www.canada.ca/en/canadian-heritage.html">Department of Canadian Heritage’s Digital Citizen Contribution Program</a>.
+
 
 Cette application est conçue pour aider les chercheurs comme vous à transformer leurs idées en impact.
 Que vous commenciez à peine ou que vous cherchiez à améliorer vos efforts de mobilisation des connaissances (KM),
-KM Compass vous guidera à chaque étape du processus.
+KM Compass vous guidera à chaque étape du processus. L'application est développée par le <a href="https://socialmedialab.ca/">Social Media Lab</a> de la <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a>, avec le financement du <a href="https://www.canada.ca/en/canadian-heritage.html">Programme de contribution pour la citoyenneté numérique du ministère du Patrimoine canadien</a>.
+
+
 
 ## Setup Instructions
 
