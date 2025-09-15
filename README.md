@@ -15,7 +15,8 @@ KM Compass will guide you through the process every step of the way. The app is 
 
 Cette application est conçue pour aider les chercheurs comme vous à transformer leurs idées en impact.
 Que vous commenciez à peine ou que vous cherchiez à améliorer vos efforts de mobilisation des connaissances (KM),
-KM Compass vous guidera à chaque étape du processus. L'application est développée par le <a href="https://socialmedialab.ca/">Social Media Lab</a> de la <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a>, avec le financement du <a href="https://www.canada.ca/en/canadian-heritage.html">Programme de contribution pour la citoyenneté numérique du ministère du Patrimoine canadien</a>.
+KM Compass vous guidera à chaque étape du processus. L'application est développée par le <a href="https://socialmedialab.ca/">Social Media Lab</a> de la <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a>, avec le financement du <a target="_blank" href="https://www.canada.ca/fr/patrimoine-canadien/services/desinformation-en-ligne/programme-contributions-citoyennete-numerique.html" rel="noopener noreferrer">Programme de contributions en matière de citoyenneté numérique</a> du <a target="_blank" href="https://www.canada.ca/fr/patrimoine-canadien.html" rel="noopener noreferrer">Patrimoine canadien</a>.
+
 
 
 
